@@ -57,13 +57,13 @@ Key Enterprise System Characteristics
 - Utilises best business process practices
 
 - Reduces inter-processing time
-
+  
   - transactions occur one time at the source
 
 - Maintains an audit trail of all transactions
 
 - Utilises a common database for
-
+  
   - Master data
   - Transactional data
   - Enabling BI
@@ -79,7 +79,7 @@ Key Enterprise System Characteristics
   providing a more whole or complete information resource.
 
 - This integration includes bringing together:
-
+  
   - People
   - Processes
   - Information
@@ -92,7 +92,7 @@ Key Enterprise System Characteristics
 - Integrated enterprise systems are often achieved using ERP software.
 
 - Originally systems very often worked in silos:
-
+  
   - No connection with other systems in the organisation (isolated)
   - No sharing of data (isolated data)
   - Management had difficulty obtaining accurate data in a timely and efficient manner.
@@ -104,7 +104,7 @@ Key Enterprise System Characteristics
 ## Why do organisation adopt Enterprise systems?
 
 - Technology Rationales
-
+  
   - Year 2000
   - Disparate Systems
   - Poor existing systems
@@ -112,7 +112,7 @@ Key Enterprise System Characteristics
   - Common platform and data transparency
 
 - Business Process Rationales
-
+  
   - Personnel reduction
   - IT cost reduction
   - Productivity improvements
@@ -120,19 +120,19 @@ Key Enterprise System Characteristics
   - Revenue
 
 - Strategic Rationales
-
+  
   - Added functionality
   - eBusiness
   - Response to mergers etc.
 
 - Competitive Rationales
-
+  
   - Competitive pressures to become a low cost producer.
 
 ## Key Benefits for a company deciding to implement an enterprise system?
 
 - Enhance all aspects of key operations across a company's entire back-office -
-
+  
   - from planning through execution, management, and control.
   - They accomplish this by taking processes and functions that were previously disparate and disjointed, and seamlessly integrating and coordinating them.
 
