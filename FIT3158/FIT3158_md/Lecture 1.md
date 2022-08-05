@@ -230,14 +230,18 @@ Relisten the explaination
 
 # Advantages of Using Models
 
-▪ Less expensive and disruptive than experimenting with real
-world system
-▪ Models enable us to ask ‘what if’ questions and test the
-sensitivity of particular values
-▪ Models force a consistent, systematic approach to a problem
-▪ Models require managers to be specific about constraints and
-goals
-▪ Models can reduce the time taken to make decisions
+- Less expensive and disruptive than experimenting with real
+  world system
+
+- Models enable us to ask ‘what if’ questions and test the
+  sensitivity of particular values
+
+- Models force a consistent, systematic approach to a problem
+
+- Models require managers to be specific about constraints and
+  goals
+
+- Models can reduce the time taken to make decisions
 
 ```
 15
@@ -663,9 +667,11 @@ Decision: Hw many Aqua-Spa and Hydro-Luxcan be produced
 # 5 Steps In Formulating LP Models:
 
 1. Understand the problem.
+
 2. Identify the decision variables.
     X 1 =number of Aqua-Spas to produce
     X 2 =number of Hydro-Luxes to produce
+
 3. State the objective function as a linear combination of the
     decision variables.
    
@@ -685,6 +691,7 @@ Decision: Hw many Aqua-Spa and Hydro-Luxcan be produced
        1X 1 + 1X 2 <= 200 } pumps
        9X 1 + 6X 2 <= 1566 } labor
        12X 1 + 16X 2 <= 2880 } tubing
+
 5. Identify any upper or lower bounds on the decision variables.
     X 1 >= 0
     X 2 >= 0
