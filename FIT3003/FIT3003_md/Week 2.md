@@ -1,5 +1,3 @@
-
-
 ##### 
 
 ### 
@@ -11,6 +9,8 @@
 ###### ➢ As a result, the star schema becomes a snowflake schema.
 
 ### Bridge Tables
+
+<img src="file:///C:/Users/sjsa3/AppData/Roaming/marktext/images/2022-08-09-11-52-11-image.png" title="" alt="" width="778">
 
 ## What are the 2 reasons on why a dimension cannot be connected directly to the Fact:
 
