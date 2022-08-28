@@ -33,22 +33,18 @@ WHERE (spb.product_id = pd.product_id)
 GROUP BY pd.product_desc;
 
 -- Q4: The total income by services, for different pet types
-SELECT sd.service_id,
-       sd.service_desc,
-       fact.pet_id,
-       sum(fact.TOTAL_INCOME) as TOTAL_INCOME
-FROM ServiceDIM sd,
-     serviceproductbridge spb,
-     ProductDim pd,
-     PetVisitFACT fact,
-     PetTypeDim ptd
-WHERE (spb.product_id = pd.product_id)
-      AND (sd.service_id = spb.service_id)
-      AND (fact.service_id = sd.service_id)
-      AND (fact.pet_id = ptd.pet_id)
-GROUP BY sd.service_id,
-         sd.service_desc,
-         fact.pet_id;
+SELECT s.service_desc,
+       p.pet_type,
+       SUM(f.total_income) AS Total_income
+FROM   pet9fact f,
+       petdim p,
+       servicedim s
+WHERE  f.pet_id = p.pet_id
+       AND f.service_id = s.service_id
+GROUP  BY s.service_desc,
+          p.pet_type
+ORDER  BY s.service_desc; 
+
 		 
 		 
 -- Q5: The total income by different products.
