@@ -1,0 +1,16 @@
+﻿cum_disc_cash_flow,Year,Case_type
+-2.999807,2023,Worst case
+2.382517,2024,Worst case
+7.743292,2025,Worst case
+13.066208,2026,Worst case
+18.337238,2027,Worst case
+-3.027078,2023,Normal case
+2.453551,2024,Normal case
+7.961862,2025,Normal case
+13.480994,2026,Normal case
+18.996012,2027,Normal case
+-3.05485,2023,Best case
+2.526803,2024,Best case
+8.188114,2025,Best case
+13.912587,2026,Best case
+19.685273,2027,Best case
